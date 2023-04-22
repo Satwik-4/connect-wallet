@@ -1,4 +1,4 @@
-# This code when implemented allows you to connect to differnt wallets:
+# This code when implemented allows you to connect to different wallets:
 
 ### MetaMask
 ### Coinbase Wallet
